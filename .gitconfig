@@ -1,0 +1,7 @@
+[user]
+	name = Samuel J Rosenthal
+	email = sjrosen@gmail.com
+[core]
+	excludesfile = ~/.cvsignore
+[push]
+	default = simple
