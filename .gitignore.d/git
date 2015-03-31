@@ -2,3 +2,5 @@
 !/.gitconfig
 !/.gitignore.d
 !/.gitignore.d/git
+!/.git_template
+!/.git_template/**
