@@ -13,3 +13,5 @@
 	prompt = false
 [alias]
 	dt = difftool
+	ci = commit
+	st = status
