@@ -3,6 +3,7 @@
 	email = sjrosen@gmail.com
 [core]
 	excludesfile = ~/.cvsignore
+	autocrlf = input
 [push]
 	default = simple
 [init]
